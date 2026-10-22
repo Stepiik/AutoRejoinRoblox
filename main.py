@@ -243,7 +243,7 @@ class UniversalAutoRejoin:
 
 if __name__ == "__main__":
     # NOTIFICATION SETTINGS
-    TELEGRAM_BOT_TOKEN = "8714735907:AAHgD0Hk7UGAVmlJ20ijHtVOedweDIGMwcQ"
+    TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"     # Your token telegram bot (get it from @BotFather)
     TELEGRAM_CHAT_ID = "YOUR_TELEGRAM_CHAT_ID"         # Your numeric chat ID (get it from @userinfobot)
     DISCORD_WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL"   # Your Discord webhook URL
 
